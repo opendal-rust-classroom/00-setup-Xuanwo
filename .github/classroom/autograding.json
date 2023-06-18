@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "cargo",
+      "name": "ci",
       "setup": "",
-      "run": "cargo run",
+      "run": "bash check.sh",
       "input": "",
       "output": "",
       "comparison": "included",

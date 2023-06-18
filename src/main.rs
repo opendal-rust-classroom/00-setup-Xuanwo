@@ -1,1 +1,5 @@
-// Please fill me to pass the Github Actions
+use opendal::Scheme;
+
+fn main() {
+    println!("Hello, {}", Scheme::S3)
+}
